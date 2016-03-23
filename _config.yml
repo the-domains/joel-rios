@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.756463
+  lightness: 0.280004
+  rhythmicContrast: 0.901525
+  saturation: 0.703172
+cta: {}
+layout_spectrum: 0.761824
+name: Joel Rios
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.632039
